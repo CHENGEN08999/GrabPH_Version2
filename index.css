@@ -56,17 +56,7 @@
   font-weight: 500;
 }
 .none-of-this {
-  margin: 0;
-}
-.your-kind-support-and-contribu {
-  margin: 0;
-}
-.your-kind-support {
-  font-weight: 500;
   white-space: pre-wrap;
-}
-.grabforgood-forest {
-  font-family: var(--font-inter);
 }
 .learn-more-about {
   width: 233px;
@@ -215,9 +205,19 @@
   line-height: 14px;
   display: inline-block;
 }
+.the-grabforgood-mangrove-enric {
+  margin: 0;
+}
 .the {
   font-weight: 500;
+}
+.grabforgood,
+.the {
   font-family: var(--font-inter);
+}
+.site-is-set {
+  margin: 0;
+  font-weight: 500;
 }
 .frame-item,
 .share-button {
