@@ -148,11 +148,12 @@
   width: 265px;
   position: absolute;
   margin: 0 !important;
-  top: 129px;
-  left: 20px;
+  height: 19.44%;
+  top: 24.11%;
+  bottom: 56.45%;
+  left: calc(50% - 155px);
   border-radius: var(--br-10);
   background-color: var(--color-forestgreen);
-  height: 104px;
   z-index: 0;
 }
 .flood-fighting-is {
